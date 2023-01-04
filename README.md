@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="250"/>
   <div id="badges">
     
-  <a href="">
+  <a href="https://www.linkedin.com/in/finnchristoffer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
