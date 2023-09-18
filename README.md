@@ -19,7 +19,7 @@
 </div>
 
 ---
-- :technologist: I’m undergraduate Computer Science student who interested in iOS Development.
+- :technologist: I’m Bachelor Computer Science @BINUS who interested in iOS Development.
 
 - :seedling: Graduated from Apple Developer Academy @Binus C5S1 Student
 
