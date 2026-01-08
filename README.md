@@ -1,65 +1,63 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="250"/>
+<div align="center">
+
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="200"/>
+
+  <h1>Hi there, I'm Finn Christoffer! 👋</h1>
+  <h3>iOS Engineer | Apple Developer Academy Alumni</h3>
+
   <div id="badges">
-    
-  <a href="https://www.linkedin.com/in/finnchristoffer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://medium.com/@dev.finnchristoffer">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/finnchristoffer/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://medium.com/@dev.finnchristoffer">
+      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+    </a>
+  </div>
+
 </div>
-</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a Computer Science graduate from **BINUS University** and an **Apple Developer Academy (C5S1)** alumni, passionate about creating seamless mobile experiences.
+
+* 🏆 **Winner:** Apple WWDC'22 Scholarship (Swift Student Challenge).
+* 📱 **Focus:** iOS Development (UIKit, SwiftUI), Modular Architecture, and Clean Code.
+* ⚡ **Hobby:** Solving algorithm challenges on HackerRank/LeetCode.
+* 📫 **Contact:** [Connect on LinkedIn](https://www.linkedin.com/in/finnchristoffer/)
+
+---
+
+### 🛠 Tech Stack
+
+| **Mobile (Core)** | **Tools & Design** | **Backend & Web** |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45"/> <br/> Swift | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45"/> <br/> Xcode | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/> <br/> Firebase |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/> <br/> Flutter | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <br/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <br/> Python |
+| | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/> <br/> Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <br/> MySQL |
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
-</div>
 
----
-- :technologist: I’m Bachelor Computer Science @BINUS who interested in iOS Development.
+  
 
-- :seedling: Graduated from Apple Developer Academy @Binus C5S1 Student
-
-- :trophy: Apple WWDC'22 Scholarship Winner
-
-- :seedling: Exploring about iOS Development and Environment.
-
-- :zap: In my free time, I solve problems on HackerRanks and consume tech articles(Medium, Youtube, etc).
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-finnchristoffer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/finnchristoffer/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: My Stats :
+  ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=finnchristoffer&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnchristoffer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnchristoffer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=finnchristoffer&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=finnchristoffer&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  </a>
+</div>
+</div>
